@@ -15,8 +15,10 @@ function App() {
                     <li><input type="checkbox" checked={true}/> <span>JS</span></li>
                     <li><input type="checkbox" checked={false}/> <span>React</span></li>
                     <li><input type="checkbox" checked={false}/> <span>Css</span></li>
+                    <li>comit test</li>
                 </ul>
                 <div>
+                     <button>All</button>
                     <button>All</button>
                     <button>Active</button>
                     <button>Completed</button>
